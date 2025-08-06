@@ -1,0 +1,5 @@
+{
+  "name": "Audio Speed Typer",
+  "description": "An application to test your typing speed. A random word is spoken, and you type it as fast as you can to see your score and words per minute (WPM).",
+  "requestFramePermissions": []
+}
